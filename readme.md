@@ -24,3 +24,12 @@ flowchart TD
 ```
 
 Получится?
+
+## Статусы в Git
+
+- Tracked
+- Untracked
+- Modiefed
+- Staged
+
+
