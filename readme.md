@@ -32,4 +32,8 @@ flowchart TD
 - Modiefed
 - Staged
 
+--Читай Git статус глазами
+
+**Оформляй сообщения к commit
+
 
